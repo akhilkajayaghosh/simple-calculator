@@ -1,0 +1,38 @@
+.calc{
+    height: 600px;
+    width: 400px;
+    background: grey;
+    margin-left: 400px;
+    border: solid 3px;
+    border-color: rgb(9, 140, 149);
+}
+#screen{
+    width: 82%;
+    height:50px;
+    margin-left: 28px;
+    margin-top: 26px;
+    pointer-events: none;
+    background: lightcyan;
+    border: 0px;
+}
+.btn{
+    width:60px;
+    height:50px;
+    margin-left: 27px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.b1
+{
+    color: rgb(176, 19, 19);
+    border:0px;
+    font-weight: bold;
+}
+.b2{
+    background:rgb(41, 130, 41);
+    border:0px;
+    font-weight: bold;
+}
+.b3{
+    margin-left:208px;
+}
